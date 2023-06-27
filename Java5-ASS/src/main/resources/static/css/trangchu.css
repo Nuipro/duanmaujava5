@@ -1,0 +1,76 @@
+
+
+footer {
+    height: 250px;
+    background-color: #101E2C;
+    color: white;
+    position: relative;
+}
+
+.lienhe {
+    padding-top: 20px;
+    margin-left: 70px;
+    float: left;
+    /* display: inline-block; */
+}
+
+.lienhe1 {
+    padding: 10px;
+    margin-left: 90px;
+    position: absolute;
+}
+
+.theodoi {
+    padding-top: 20px;
+    float: right;
+    margin-right: 300px;
+}
+
+.copyright {
+    position: absolute;
+    bottom: 0;
+    left: 0px;
+    right: 0px;
+    width: 500px;
+    margin: 0px auto;
+}
+
+.theodoi i {
+    margin-right: 5px;
+}
+
+.form label {
+    font-size: small;
+}
+
+.content {
+    height: 1050px;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+h4 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: green;
+}
+
+.figure-caption {
+    color: red;
+    font-weight: bold;
+}
+
+.sanphambanchay {
+    margin-top: 70px;
+}
+
+.col button {
+    border-radius: 5px;
+    border: 1px blue solid;
+    color: blue;
+}
+
+figure img {
+    width: 320px;
+}
